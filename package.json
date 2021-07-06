@@ -1,0 +1,46 @@
+{
+  "name": "demoproject",
+  "version": "2.0.7",
+  "description": "Create by Furqan Zamir",
+  "main": "",
+  "directories": {
+    "example": "root"
+  },
+  "scripts": {
+    "open-app": "gulp open-app",
+    "start": "npm run open-app",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furqanzamir/demoproject.git"
+  },
+  "keywords": [
+    "html kit",
+    "html css kit",
+    "web kit",
+    "freebie",
+    "free bootstrap kit",
+    "css3 kit",
+    "bootstrap admin",
+    "bootstrap kit",
+    "frontend",
+    "responsive bootstrap kit"
+  ],
+  "author": "Furqan Zamir",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-install": "^1.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-open": "^3.0.1"
+  },
+  "homepage": ""
+}
